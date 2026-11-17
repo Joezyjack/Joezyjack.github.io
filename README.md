@@ -79,8 +79,10 @@ https://github.com/Joezyjack
 ## Security Notice
 
 All cybersecurity testing and practical exercises are
+
 conducted in authorised laboratory environments or on
 systems where permission has been granted.
+Portfolio deployment refreshed on November 17, 2026
 
 Never publish passwords, API keys, private documents
 or confidential information in this public repository.
